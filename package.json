@@ -1,9 +1,9 @@
 {
   "name": "html-to-snabbdom",
-  "keywords": [],
+  "keywords": ["snabbdom"],
   "author": "joyqi",
-  "license": "",
-  "description": "",
+  "license": "MIT",
+  "description": "Transform html to snabbdom",
   "repository": {
     "type": "git",
     "url": "https+git://github.com/joyqi/html-to-snabbdom.git"
@@ -20,6 +20,7 @@
     "@types/mocha": "latest",
     "assert": "latest",
     "mocha": "latest",
+    "snabbdom": "^3.5.1",
     "typescript": "latest"
   }
 }
