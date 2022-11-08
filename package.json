@@ -1,16 +1,14 @@
 {
-  "name": "typescript-module-template",
+  "name": "html-to-snabbdom",
   "keywords": [],
-  "author": "",
+  "author": "joyqi",
   "license": "",
   "description": "",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https+git://github.com/joyqi/html-to-snabbdom.git"
   },
-
   "version": "0.0.1",
-
   "main": "lib/index.js",
   "module": "lib/index.js",
   "types": "lib/index.d.ts",
