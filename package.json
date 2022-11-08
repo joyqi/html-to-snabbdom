@@ -18,6 +18,7 @@
   },
   "devDependencies": {
     "@types/mocha": "latest",
+    "ts-node": "latest",
     "assert": "latest",
     "mocha": "latest",
     "snabbdom": "^3.5.1",
