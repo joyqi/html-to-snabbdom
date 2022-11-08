@@ -6,7 +6,11 @@
   "description": "Transform html to snabbdom",
   "repository": {
     "type": "git",
-    "url": "https+git://github.com/joyqi/html-to-snabbdom.git"
+    "url": "git+https://github.com/joyqi/html-to-snabbdom.git"
+  },
+  "homepage": "https://github.com/joyqi/html-to-snabbdom#readme",
+  "bugs": {
+    "url": "https://github.com/joyqi/html-to-snabbdom/issues"
   },
   "version": "0.0.1",
   "main": "lib/index.js",
